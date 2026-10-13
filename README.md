@@ -1,4 +1,4 @@
-# Hi, I'm Mimi Rosner 👋
+# Hi, I'm Mimi Zalaznik 👋
 
 **Full-Stack Software Developer | Python, FastAPI, React & TypeScript**
 
