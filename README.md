@@ -47,4 +47,4 @@ A Python project that collects job listings, removes duplicates, and evaluates j
 
 ## 🔗 Connect
 
-- **LinkedIn:** [My LinkedIn Profile]https://www.linkedin.com/in/mimi-rosner-401b85373/)
+- **LinkedIn:** [My LinkedIn Profile]https://www.linkedin.com/in/mimi-zalaznik-401b85373/)
