@@ -16,7 +16,7 @@ I build full-stack applications, backend services, REST APIs, and AI-integrated 
 ## 💼 Professional Experience
 
 ### FamiList — Full-Stack Developer
-**CodeDuoTech | April 2026 – Present**
+**April 2026 – Present**
 
 Contributing to the development of a family caregiving platform that helps families coordinate tasks, visits, and shared information.
 
